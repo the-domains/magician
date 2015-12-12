@@ -1,7 +1,7 @@
 name: magician
 favicon: null
-layout_spectrum: 0.5847845065873116
-typography_spectrum: 0.6469797629397362
+layout_spectrum: 0.49506
+typography_spectrum: 0.73671
 title: exploring the intersection of technology and magic
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.2943929652683437
-  lightness: 0.5289850123226643
-  saturation: 0.06857568211853504
-  rhythmicContrast: 0.18188914097845554
+    - '#ffffff'
+    - '#454f57'
+    - '#6b99b5'
+    - '#e62a1d'
+    - '#060606'
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose: []

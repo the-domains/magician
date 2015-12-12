@@ -1,0 +1,28 @@
+name: magician
+favicon: null
+layout_spectrum: 0.5847845065873116
+typography_spectrum: 0.6469797629397362
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2943929652683437
+  lightness: 0.5289850123226643
+  saturation: 0.06857568211853504
+  rhythmicContrast: 0.18188914097845554
+purpose: []
